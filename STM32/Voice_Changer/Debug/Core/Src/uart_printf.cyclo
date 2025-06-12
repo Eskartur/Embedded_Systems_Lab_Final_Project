@@ -1,0 +1,2 @@
+../Core/Src/uart_printf.c:21:6:UART_Printf	1
+../Core/Src/uart_printf.c:30:6:UART_Printf_Dbg	1
